@@ -783,7 +783,7 @@ This project was developed for academic and educational purposes.
 You may adapt and extend the project for learning and research purposes while appropriately acknowledging the original work.
 
 ---
-
+#OUTPUT 
 <img width="837" height="637" alt="Screenshot 2026-09-30 163810" src="https://github.com/user-attachments/assets/21a13ebd-5031-4ac7-9896-b8d5b577067a" />
 <img width="877" height="610" alt="Screenshot 2026-09-30 163729" src="https://github.com/user-attachments/assets/704fa671-27fa-4b43-917c-c2361429c956" />
 <img width="685" height="463" alt="Screenshot 2026-09-30 163743" src="https://github.com/user-attachments/assets/282a0eba-01a7-49d3-b5cf-420f3d4643f7" />
